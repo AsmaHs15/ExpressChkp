@@ -10,7 +10,7 @@ let hours = today.getHours();
 let day = today.getDay();
 
 
-if  ( day>= 0 &&  day <= 5  &&  hours >= 12 && hours <= 17 )
+if  ( day>= 0 &&  day <= 5  &&  hours >= 9 && hours <= 17 )
 
             { 
                 next();
